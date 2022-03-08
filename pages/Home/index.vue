@@ -1,7 +1,6 @@
 <template>
     <div class="flex-container">
-        <div class="flex-item-left">Detail</div>
-        <div class="flex-item-right">SignIn</div>
+        Home
     </div>
 </template>
 

@@ -25,12 +25,19 @@ export default {
             this.user = json
         })
     },
+<<<<<<< HEAD
     beforeCreate() {
         //this.$nuxt.$loading.start()
         //this.showHideSpinner = true;
     },
     mounted() {
          //this.$nuxt.$loading.start()        
+=======
+    beforeCreate() {       
+//        this.showHideSpinner = true;
+    },
+    mounted() {        
+>>>>>>> 7a3c0d5de1f34ae0c390d81d71b973f98796a7bc
         //this.showHideSpinner = false;
     },
     

@@ -26,11 +26,11 @@ export default {
         })
     },
     beforeCreate() {
-        this.$nuxt.$loading.start()
-//        this.showHideSpinner = true;
+        //this.$nuxt.$loading.start()
+        //this.showHideSpinner = true;
     },
     mounted() {
-        this.$nuxt.$loading.finish()
+         //this.$nuxt.$loading.start()        
         //this.showHideSpinner = false;
     },
     

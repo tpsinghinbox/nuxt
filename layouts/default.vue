@@ -6,7 +6,7 @@
     </div>
 </template>
 
-// <script>
+ <script>
 // export default {
 //   beforeCreate() {
 //     this.showHideSpinner = true;
@@ -20,4 +20,4 @@
 //     };
 //   }
 // };
-// </script>
+</script>

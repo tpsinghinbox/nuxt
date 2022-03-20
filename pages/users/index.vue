@@ -1,6 +1,7 @@
 <template>
 <div>
-    <h1>{{title}}</h1>    
+    <h1>{{title}}</h1>   
+    
     <ul>
         <li v-for="user in users" :key="user.id">
             <NuxtLink :to="'/users/'+user.id">{{user.name}}</NuxtLink>
